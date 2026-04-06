@@ -29,4 +29,8 @@ The project aims to perform exploratory data analysis on Men’s T-shirt data to
 
 - Step 5: During data exploration, 16 records were found to have missing values across all columns. Since these records do not provide any meaningful information, they were removed from the dataset.
 
+
+<img width="1102" height="628" alt="Image" src="https://github.com/user-attachments/assets/87f1a303-080c-4b29-af87-ac93f363acf3" />
+
+
   
