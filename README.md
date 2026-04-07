@@ -33,4 +33,19 @@ The project aims to perform exploratory data analysis on Men’s T-shirt data to
 <img width="1102" height="628" alt="Image" src="https://github.com/user-attachments/assets/87f1a303-080c-4b29-af87-ac93f363acf3" />
 
 
+- Step 6: Similarly, I observed that the Original Price column contains missing (NA) values, while the corresponding Sales Price column has valid entries, as shown below.
+
+  
+- Step 7: The Sales Price column was filtered to exclude NA (missing) values by unselecting them in the filter, ensuring only valid sales prices are considered for analysis.
+
+  
+- Step 8: A conditional column named Factor was created to calculate 50% more than the Sales Price value.
+
+  
+- Step 9: A new custom column was created to calculate the product of the Sales Price and Factor columns.
+
+  
+- Step 10: A subsequent conditional column was added to compute the final Original Price based on the defined business logic.
+
+
   
