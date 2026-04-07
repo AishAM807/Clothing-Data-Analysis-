@@ -19,8 +19,7 @@ The project aims to perform exploratory data analysis on Men’s T-shirt data to
   
 - Step 3: Upon analysis, the Original Price and Sale Price columns contained unwanted '?' characters. These were successfully cleaned by executing UPDATE and SET statements to replace them with blank values, as demonstrated below.
 
-  <img width="1319" height="501" alt="Image" src="https://github.com/user-attachments/assets/6e9872ce-0840-4319-915a-f414dc6cc1c2" />
-
+<img width="1088" height="593" alt="Image" src="https://github.com/user-attachments/assets/60f12abd-d99f-4467-8d21-6facd83c523e" />
   
 - Step 4: Established a connection between Power BI Desktop and the Azure SQL Database using the Database option.
 
@@ -41,11 +40,16 @@ The project aims to perform exploratory data analysis on Men’s T-shirt data to
   
 - Step 8: A conditional column named Factor was created to calculate 50% more than the Sales Price value.
 
-  
+<img width="926" height="408" alt="Image" src="https://github.com/user-attachments/assets/e9060a8f-ee53-4adb-ad10-0cdd4672f09f" />
+
 - Step 9: A new custom column was created to calculate the product of the Sales Price and Factor columns.
 
+  <img width="699" height="435" alt="Image" src="https://github.com/user-attachments/assets/5c82d2b9-1a60-471c-8968-be15bccc71c3" />
   
 - Step 10: A subsequent conditional column was added to compute the final Original Price based on the defined business logic.
+
+<img width="925" height="407" alt="Image" src="https://github.com/user-attachments/assets/60568fe8-25fb-435b-a1ef-d555bafd1241" />
+
 
 
   
