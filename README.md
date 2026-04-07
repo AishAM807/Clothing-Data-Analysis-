@@ -51,5 +51,10 @@ The project aims to perform exploratory data analysis on Men’s T-shirt data to
 <img width="925" height="407" alt="Image" src="https://github.com/user-attachments/assets/60568fe8-25fb-435b-a1ef-d555bafd1241" />
 
 
+- Step 11: A new calculated column was added to measure the discount percentage based on the difference between the Original Price and Sales Price.
+
+		Discount % = DIVIDE('Men+Tshirt (1)'[Final Original Price] - 'Men+Tshirt (1)'[Sale_Price], 'Men+Tshirt (1)'[Final Original Price]) *100
+
+
 
   
