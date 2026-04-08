@@ -69,3 +69,5 @@ The project aims to perform exploratory data analysis on Men’s T-shirt data to
 - Step 15: Used a Multi-Row Card visual to display all brand names.
 
  # Report Snapshot (Power BI DESKTOP)
+
+<img width="963" height="497" alt="Image" src="https://github.com/user-attachments/assets/483993d6-c09f-464e-b2aa-cddd45eaecf1" />
