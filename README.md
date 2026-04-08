@@ -56,5 +56,14 @@ The project aims to perform exploratory data analysis on Men’s T-shirt data to
 		Discount % = DIVIDE('Men+Tshirt (1)'[Final Original Price] - 'Men+Tshirt (1)'[Sale_Price], 'Men+Tshirt (1)'[Final Original Price]) *100
 
 
+- Step 12: Created a calculated column by assuming a profit percentage ranging from 2% to 17%
+
+ 		Profit % = RANDBETWEEN(2, 17)   
+
+- Step 13: Implemented a calculated column to compute the Cost Price based on the Selling Price and assumed Profit Percentage.
+
+		Cost price = DIVIDE('Men+Tshirt (1)'[Sale_Price], 1 + 'Men+Tshirt (1)'[Profit %]/ 100)
+
+
 
   
