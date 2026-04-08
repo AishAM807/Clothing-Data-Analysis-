@@ -64,6 +64,8 @@ The project aims to perform exploratory data analysis on Men’s T-shirt data to
 
 		Cost price = DIVIDE('Men+Tshirt (1)'[Sale_Price], 1 + 'Men+Tshirt (1)'[Profit %]/ 100)
 
+- Step 14: Developed the Brands Overview page with a canvas background and updated wallpaper color for improved visual presentation.
 
+- Step 15: Used a Multi-Row Card visual to display all brand names.
 
   
