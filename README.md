@@ -86,7 +86,6 @@ The project aims to perform exploratory data analysis on Men’s T-shirt data to
  # Report Snapshot (Power BI DESKTOP)
 
 
+<img width="1105" height="502" alt="Image" src="https://github.com/user-attachments/assets/7a7256ab-5bd1-476a-8e5a-2fef723abb86" />
 
-
- 
-# Insights
+ # Insights
