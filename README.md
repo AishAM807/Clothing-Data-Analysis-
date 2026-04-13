@@ -107,7 +107,7 @@ The following inferences can be drawn from the dashboard;
 
 ➡️ Insight: Price drops by ~2.5K from highest to lowest, showing a premium-to-mid range spread.
 
-### [1] Top 5 Brands by Distinct Variety
+### [2] Top 5 Brands by Distinct Variety
 
 - The Indian Garage Co → 51 products (22.87%)
 - U.S. Polo Assn. → 44 products (~19.7%)
@@ -117,14 +117,14 @@ The following inferences can be drawn from the dashboard;
 
 ➡️ Insight: The top brand alone contributes nearly 23% of the total variety.
 
-### [2] Top 5 Brands by Average Percent %
+### [3] Top 5 Brands by Average Percent %
 
 - Parali, Rookies, Terra Luna, Thinc → 17% (tie for highest)
 - VENTUSY, Kingdom of White → 16%
 
 ➡️ Insight: Very narrow variation (1%), indicating consistent performance across these brands.
 
-### [3]  Bottom 5 Brands by Average Profit %
+### [4]  Bottom 5 Brands by Average Profit %
 
 - Colorplus → 17.65%
 - GESPO → ~17%
