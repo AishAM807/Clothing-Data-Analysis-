@@ -81,3 +81,12 @@ The project aims to perform exploratory data analysis on Men’s T-shirt data to
 - Step 19: Added a ribbon chart to effectively showcase the top five brands based on average sales price.
   
 - Step 20: Added an Area chart to illustrate the top five brands based on average percentage, providing a clear view of performance trends. Similarly, a pie chart was incorporated to represent the bottom five brands by average percentage, enabling an intuitive comparison of lower-performing brands.
+
+
+ # Report Snapshot (Power BI DESKTOP)
+
+
+
+
+ 
+# Insights
