@@ -71,3 +71,9 @@ The project aims to perform exploratory data analysis on Men’s T-shirt data to
  # Report Snapshot (Power BI DESKTOP)
 
 <img width="963" height="497" alt="Image" src="https://github.com/user-attachments/assets/483993d6-c09f-464e-b2aa-cddd45eaecf1" />
+
+- Step 16: Created a second report page titled “Detail”, where a bar chart was added to display the top 5 brands based on average discount percentage.
+  
+- Step 17: The Top N filter was applied through the filter pane to identify the leading brands. Additionally, conditional formatting was implemented on the bar chart to visually represent the range from minimum to maximum values across brands.
+  
+- Step 18: Added a donut chart to present the top five brands with the highest product variety, enabling a clear and intuitive comparison of brand diversity and distribution.
