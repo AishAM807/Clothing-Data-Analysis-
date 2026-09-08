@@ -1,7 +1,7 @@
 
 # Men's Clothing Data Analysis 
 
-### Dashboard Link :
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/c48c0992-193b-4fc8-b505-d4367ada6169/ReportSection267d36af4f7cf293cbb0?experience=power-bi
 
 ### Data Source: Azure SQL Database 
 
